@@ -10,11 +10,8 @@ The use of Facial Recognition — the process of identifying or authenticating a
 
 While there are many good and legitimate uses for facial recognition, there are cases in which the technology may have a detrimental effect on society when abused by big corporations, government and law enforcement. Some examples of such abuse and the potential legal, social, and ethical implications are covered in this article.
 
-![Facial Recognition Art Mural, Hollywood CA](https://miro.medium.com/max/700/1*_u9WxQQ1wU7ZW9iObbdq0g.jpeg)
-
+![Facial Recognition Art Mural, Hollywood CA](https://miro.medium.com/max/1400/1*_u9WxQQ1wU7ZW9iObbdq0g.jpeg){:width="100%"}
 Facial Recognition Art Mural, Hollywood CA
-
-
 
 ## Legal Issues
 Currently, the law regarding the implementation of facial recognition for various purposes is being studied and debated in many developed countries. At present, there is a lot of concern, not just about the ethical and social issues surrounding facial recognition, but also current and future legal issues. These legal issues relate to mass biometric data collection and processing, as well as lack of up-to-date legislation that should tightly regulate how this data is collected, processed, and stored while considering the privacy implications to people in society.

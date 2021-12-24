@@ -24,7 +24,7 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
     # - repo-name
 
@@ -32,18 +32,18 @@ projects:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: benwillis
-  # instagram: benwillis.xyz
+  hackerrank: benwillis
+  instagram: benwillis.xyz
   # keybase: your_username
-  # linkedin: willis_benjamin
+  linkedin: willis_benjamin
   # mastodon: your_username
-  # medium: bentkwillis
-  # stackoverflow: 12251370
+  medium: bentkwillis
+  stackoverflow: 12251370
   # telegram: your_username
-  # twitter: bentkwillis
+  twitter: bentkwillis
   # unsplash: your_username
   # vk: your_username
-  # website: http://benwillis.xyz
+  website: http://benwillis.xyz
   # youtube: your_username
 
 topics:
@@ -59,13 +59,13 @@ topics:
     web_url: https://github.com/topics/aws
     image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
 
-  - name: Linux
-    web_url: https://github.com/topics/linux
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
-
   - name: Blockchain
     web_url: https://github.com/topics/blockchain
     image_url: https://raw.githubusercontent.com/github/explore/66e4a32f59558ad7852fca3eee52b5838a5b3cc8/topics/blockchain/blockchain.png
+
+  - name: Linux
+    web_url: https://github.com/topics/linux
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
 
   - name: Python
     web_url: https://github.com/topics/python

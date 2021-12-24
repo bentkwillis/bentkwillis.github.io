@@ -48,12 +48,12 @@ However, along with these beneficial uses, there are a variety of social, legal,
 A solution to this is to ensure that legislation is kept up-to-date in line with the development and widespread use of facial recognition, to protect the freedom of people without limiting innovation.
 
 ## References
-Zhang Jianfeng. 2017. China Breakthroughs: New technologies give hope to missing children’s families, [Online]. Available at: [http://english.cctv.com/2017/10/30/ARTI7HkeOoAQJSi2Q9NEjCTY171030.shtml](http://english.cctv.com/2017/10/30/ARTI7HkeOoAQJSi2Q9NEjCTY171030.shtml)
+Zhang Jianfeng. 2017. China Breakthroughs: New technologies give hope to missing children’s families, [Online]. Available at: [english.cctv.com](http://english.cctv.com/2017/10/30/ARTI7HkeOoAQJSi2Q9NEjCTY171030.shtml)
 
-People’s Daily Online. 2019. Chinese police use facial recognition to find children missing for 10 years, [Online]. Available at: [https://www.telegraph.co.uk/peoples-daily-online/science/china-facial-recognition-missing-persons/](https://www.telegraph.co.uk/peoples-daily-online/science/china-facial-recognition-missing-persons/)
+People’s Daily Online. 2019. Chinese police use facial recognition to find children missing for 10 years, [Online]. Available at: [telegraph.co.uk](https://www.telegraph.co.uk/peoples-daily-online/science/china-facial-recognition-missing-persons/)
 
-Harry Atwall. 2017. EAmber Scan: Face Recognition for Missing Children in the National Amber Alert System, [Online]. Available at: [http://csbapp.uncw.edu/data/mscsis/annalspaper.aspx?v=11&i=2&p=3](http://csbapp.uncw.edu/data/mscsis/annalspaper.aspx?v=11&i=2&p=3)
+Harry Atwall. 2017. EAmber Scan: Face Recognition for Missing Children in the National Amber Alert System, [Online]. Available at: [csbapp.uncw.edu](http://csbapp.uncw.edu/data/mscsis/annalspaper.aspx?v=11&i=2&p=3)
 
-Citlali Tellez. 2019. Three ways live face identification systems can tackle social issues, [Online]. Available at: [https://blog.gemalto.com/corporate/2019/11/22/three-ways-live-face-identification-systems-can-tackle-social-issues/](https://blog.gemalto.com/corporate/2019/11/22/three-ways-live-face-identification-systems-can-tackle-social-issues/)
+Citlali Tellez. 2019. Three ways live face identification systems can tackle social issues, [Online]. Available at: [blog.gemalto.com](https://blog.gemalto.com/corporate/2019/11/22/three-ways-live-face-identification-systems-can-tackle-social-issues/)
 
-Yo! what happened to peace? 2014. Facial Recognition Art Mural, Hollywood CA, [Online]. Available at: [https://www.flickr.com/photos/yowhathappenedtopeace/15861645255](https://www.flickr.com/photos/yowhathappenedtopeace/15861645255)
+Yo! what happened to peace? 2014. Facial Recognition Art Mural, Hollywood CA, [Online]. Available at: [flickr.com](https://www.flickr.com/photos/yowhathappenedtopeace/15861645255)
